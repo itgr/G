@@ -183,6 +183,7 @@ ul {
 
 /*preloader-area */
 .preloder-wrap  {
+  background-color: #296dc1;
   color: #fff;
   height: 100vh;
   display: flex;
@@ -224,8 +225,8 @@ ul {
     -webkit-border-radius: 50% 50% 50% 50%;
     border-radius: 50% 50% 50% 50%;
     position: absolute;
-    border-left: 5px solid #0552b1;
-    border-right: 5px solid #0552b1 ;
+    border-left: 5px solid #FFF;
+    border-right: 5px solid #FFF;
     border-top: 15px solid transparent;
     border-bottom: 15px solid transparent;
     -webkit-animation: animate3 1s infinite;
